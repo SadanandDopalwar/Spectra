@@ -1,0 +1,19 @@
+{
+    "cameraip" : "127.0.0.1",
+    "cameraport": 23,
+    "pastedelay" : 4,
+    "coordinatingenabled": true,
+    "xcordinate": 291,
+    "ycordinate": 86,
+    "barcodeposition": 0,
+    "SocketTimeout": 60,
+    "userx": 740,
+    "usery": 579,
+    "IsUserLogin": true,
+    "UserPrefix": "FKIUSERLOGIN",
+    "logsettings": {
+        "log_file_path": "D:/MyFiles/nidologs/barcodecursor.log",
+        "logsize": 5,
+        "logscount": 3
+    }
+}
